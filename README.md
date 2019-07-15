@@ -1,7 +1,7 @@
 # GeoMesh
 This is a program in C that generated STL files (.stl) from (2D) images.
 These files are used in various software to represent surfaces. They can be used in
-CAD, graphics applications, and the 3D printing process.
+CAD, graphics applications, and the 3D printing process. Originally it was supposed to use a publically available GIS database but goal was dropped. 
 This project was completed by Dan Lynch in Fall of 2017 under the supervision of Dr. Michael Geiger at UML.
 ## Initial Plan
 The project consisted of two parts: getting the data and generating the STL file. First, I would research
